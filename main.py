@@ -17,7 +17,7 @@ def get_connection():
 
 @app.get("/")
 def read_root():
-    return {"message": "my-app ^^"}
+    return {"message": "my-app my-app"}
 
 
 @app.get("/health")
