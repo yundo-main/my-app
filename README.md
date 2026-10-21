@@ -209,11 +209,11 @@ Argo CD가 그 변경을 감지해 EKS에 배포합니다.
 메시지별 원인은 시나리오 문서가 단일 출처입니다. 이 README에서는 중복해서
 설명하지 않습니다.
 
-- [GitHub Actions AWS 인증과 Secret 등록 (1.6)](../CI-CD-SCENARIO.md#16-github-actions-aws-인증-설정-확인)
-- [CI/CD 변경 실습과 CI 실패 시 읽는 법 (2.10)](../CI-CD-SCENARIO.md#210-cicd-변경-실습)
-- [Ingress-NGINX·Argo CD 설치 (2.7)](../CI-CD-SCENARIO.md#27-ingress-nginxargo-cd-설치)
-- [Monolith 배포·Application 등록 (2.8)](../CI-CD-SCENARIO.md#28-monolith-배포)
-- [Argo CD GUI 확인 (8장)](../CI-CD-SCENARIO.md#8-argo-cd-gui로-배포-상태-확인)
+- [GitHub Actions AWS 인증과 Secret 등록 (1.5)](../CI-CD-SCENARIO.md#15-github-actions-aws-인증-설정-확인)
+- [CI/CD 변경 실습과 CI 실패 시 읽는 법 (2.7)](../CI-CD-SCENARIO.md#27-cicd-변경-실습)
+- [Ingress-NGINX·Argo CD 설치 (2.4)](../CI-CD-SCENARIO.md#24-ingress-nginxargo-cd-설치)
+- [Monolith 배포·Application 등록 (2.5)](../CI-CD-SCENARIO.md#25-monolith-배포)
+- [Argo CD GUI 확인 (2.6)](../CI-CD-SCENARIO.md#argo-cd-gui로-배포-상태-확인)
 
 현재 상태를 빠르게 확인하는 명령은 다음과 같습니다.
 
